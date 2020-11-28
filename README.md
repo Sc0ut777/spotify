@@ -1,2 +1,1 @@
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
-
+<img src="https://spotify-azure.vercel.app/api/spotify-playing" alt="Now Playing" width="350" />
